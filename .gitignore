@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/modules.xml
+.idea/scala-study.iml
+.idea/workspace.xml
+*/*.class
